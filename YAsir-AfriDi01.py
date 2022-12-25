@@ -470,7 +470,7 @@ class Main:
 			time.sleep(3.0)
 			print("\033[1;37m    𝗖𝗛𝗘𝗖𝗞𝗜??𝗚 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 ")
 			print("")
-			input("\n\033[1;37m TYᑭᗴ TᕼiS NaME  "AfriDii" \033[1;37m")
+			input("\n\033[1;37m TYᑭᗴ TᕼiS NaME  AfriDii \033[1;37m")
 			time.sleep(3.1)
 			print("")
 			print("\033[1;32m WELCOME TO Marwan JAani  HACKINGS TOOL 🔥")
